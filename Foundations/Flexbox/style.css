@@ -62,7 +62,8 @@
   border: 1px red solid;
   width: 900px;
   display: flex;
-  justify-content: flex-start;
+  justify-content: center;
+  flex-wrap: wrap;
 }
 
 .photo-grid-item {
